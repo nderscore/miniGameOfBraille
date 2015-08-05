@@ -14,4 +14,4 @@ and http://aem1k.com/aleph
 
 Commented: http://xem.github.io/miniGameOfBraille
 
-Golfed (<512b): http://xem.github.io/miniGameOfBraille/index.min.html
+Golfed (<400b): http://xem.github.io/miniGameOfBraille/index.min.html
