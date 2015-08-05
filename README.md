@@ -8,3 +8,9 @@ https://github.com/xem/miniGameOfLife,
 https://github.com/xem/braille-art
 
 and http://aem1k.com/aleph
+
+
+**Demo** (ungolfed)
+
+http://xem.github.io/miniGameOfBraille
+
