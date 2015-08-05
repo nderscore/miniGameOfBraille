@@ -10,7 +10,8 @@ https://github.com/xem/braille-art
 and http://aem1k.com/aleph
 
 
-**Demo** (ungolfed)
+**Demo**
 
-http://xem.github.io/miniGameOfBraille
+Commented: http://xem.github.io/miniGameOfBraille
 
+Golfed (<512b): http://xem.github.io/miniGameOfBraille/index.min.html
